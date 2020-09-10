@@ -2,12 +2,13 @@
 
 ## Project setup
 ```
-npm install
+1- npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+2- After install dependencies (npm install): npm run serve
+3- After (npm run serve): open http://localhost:8080
 ```
 
 ### Compiles and minifies for production
